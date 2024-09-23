@@ -30,7 +30,7 @@ Cada subpasta contém o código referente à questão e um README específico co
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/python-avaliacao-tecnica.git
+   git clone https://github.com/barbarahayd/cotef_scrapy_tasks.git
    ```
 2. Acesse a pasta de uma questão específica:
   ```bash 
