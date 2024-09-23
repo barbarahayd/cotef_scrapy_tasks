@@ -19,12 +19,12 @@ Cada subpasta contém o código referente à questão e um README específico co
 
 ## Questões
 
-1. [Questão 1: Captura de dados de produtos no site Compra Agora](./questao1/README.md)
-2. [Questão 2: Captura de dados de faturamento no site Servimed](./questao2/README.md)
-4. [Questão 4: Conexão com serviço FTP via conector Java](./questao4/README.md)
-5. [Questão 5: Estrutura de dados "Árvore" em Python](./questao5/README.md)
-6. [Questão 6: Captura de Citações e Informações de "J.K. Rowling" com Selenium](./questao6/README.md)
-7. [Questão 7: Relação entre Virtual Private Networks, Subnets e Security Groups na AWS](./questao7/README.md)
+* [Questão 1: Captura de dados de produtos no site Compra Agora](./questao1/README.md)
+* [Questão 2: Captura de dados de faturamento no site Servimed](./questao2/README.md)
+* [Questão 4: Conexão com serviço FTP via conector Java](./questao4/README.md)
+* [Questão 5: Estrutura de dados "Árvore" em Python](./questao5/README.md)
+* [Questão 6: Captura de Citações e Informações de "J.K. Rowling" com Selenium](./questao6/README.md)
+* [Questão 7: Relação entre Virtual Private Networks, Subnets e Security Groups na AWS](./questao7/README.md)
 
 ## Como Executar
 
