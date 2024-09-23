@@ -1,0 +1,14 @@
+Questão 7. Sobre a infraestrutura de serviços da Amazon Web Services, explique a relação entre Virtual Private Networks, Subnets e Security Groups.
+
+
+Resposta:
+
+Na AWS, a infraestrutura de redes é organizada da seguinte maneira:
+
+- Virtual Private Network (VPC): A VPC é como uma rede privada virtual dentro da AWS, onde você define o seu próprio espaço de rede. Ela é isolada de outras VPCs e da internet, e você pode controlar o tráfego de entrada e saída, além de criar sub-redes dentro dessa VPC.
+
+- Subnets: As subnets são divisões dentro da VPC. Você pode usá-las para organizar e separar os recursos, como servidores (EC2), em diferentes zonas de disponibilidade (data centers). As subnets podem ser públicas (com acesso à internet) ou privadas (sem acesso direto à internet).
+
+- Security Groups: São como firewalls para controlar o tráfego para e dos seus recursos, como instâncias EC2. Com eles, você define quais tipos de tráfego (ex.: HTTP, SSH) podem entrar ou sair de cada recurso.
+
+Resumidamente, a VPC define o espaço de rede geral, as subnets organizam os recursos dentro dessa rede, e os security groups protegem esses recursos controlando o tráfego.
