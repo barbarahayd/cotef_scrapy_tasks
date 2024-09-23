@@ -7,15 +7,15 @@ Este script interage com o site [Compra Agora](https://www.compra-agora.com) per
 * A imagem Docker já está disponível no Docker Hub: [questao1_image](https://hub.docker.com/repository/docker/barbarahp/questao1_image/).
 * Para executar o script via Docker, siga os passos abaixo:
   
-  1. Baixe a imagem Docker:
+1. Baixe a imagem Docker:
     ```bash
     docker pull barbarahp/questao1_image:latest
     ```
-  2. Execute o container:
+2. Execute o container:
     ```bash
     docker run -v /caminho/para/diretorio/local:/usr/src/app/output barbarahp/questao1_image:latest
     ```
-  3. O arquivo JSON contendo os dados será gerado no diretório `output`.
+3. O arquivo JSON contendo os dados será gerado no diretório `output`.
 
 
 ### Localmente (caso prefira executar o script Python diretamente)
