@@ -37,8 +37,8 @@ Para capturar as credenciais de rede (host, usuário e senha) durante a comunica
 ## Resultado
 
 - O arquivo `Questao4.txt` contém:
-  - **Host**: 52.200.142.116
-  - **Usuário**: ctflteste
-  - **Senha**: YdrTXPF#mcG7KUT#H@$P
+  - **Host**: IP_HOST
+  - **Usuário**: USR
+  - **Senha**: PASSWORD
   - **Nome do arquivo**: Great Job.txt
   - **Conteúdo do arquivo**: Your server is not safe, try for new password ideas in next time.ldoebaot.h
